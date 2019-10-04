@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/js/*"
+  to = "https://js.subill.co/js/"
+  status = 200
+  force = true
