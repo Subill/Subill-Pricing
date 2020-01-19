@@ -1,2 +1,2 @@
-# subill-request-form
-Embeddable app to facilitate the request of a service instance
+# subill-pricing-page
+Embeddable app showcasing different pricing plans
